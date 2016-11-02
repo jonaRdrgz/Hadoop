@@ -1,0 +1,6 @@
+Africa	Algeria	Algeria	Algeria	Algeria	Algeria	Algeria	Zimbabwe	Algeria	Algeria	Zimbabwe	Zimbabwe
+Asia	Russia	Russia	Russia	China	Japan	China	China	China	China	China	China
+Europe	Iceland	Iceland	Iceland	Yugoslavia	United Kingdom	United Kingdom	Albania	United Kingdom	Yugoslavia	Albania	Yugoslavia
+North America	Greenland	Greenland	Greenland	United States	United States	United States	United States	United States	United States	United States	United States
+Oceania	Australia	Australia	Australia	Papua New Guinea	Australia	New Zealand	New Zealand	New Zealand	New Zealand	New Zealand	New Zealand
+South America	South Georgia and the South Sandwich Islands	Chile	Chile	Argentina	Peru	Argentina	Uruguay	Venezuela	Venezuela	Uruguay	Uruguay

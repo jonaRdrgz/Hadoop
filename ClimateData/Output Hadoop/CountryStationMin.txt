@@ -1,0 +1,206 @@
+Afghanistan	KABUL AIRPORT	KABUL AIRPORT	KABUL AIRPORT	KANDAHAR AIRPORT	Faizabad	KANDAHAR AIRPORT	KANDAHAR AIRPORT	KUNDUZ	KANDAHAR AIRPORT	Herat	Herat
+Albania	KORCA	KORCA	KORCA	HASSI R MEL	Tirana	HASSI R MEL	HASSI R MEL	KUKES	HASSI R MEL	HASSI R MEL	HASSI R MEL
+Algeria	KHATANGA	KHATANGA	KHATANGA	DAUPHIN ISLAND	El Oued	DAUPHIN ISLAND	DAUPHIN ISLAND	DAUPHIN ISLAND	DAUPHIN ISLAND	DAUPHIN ISLAND	DAUPHIN ISLAND
+Angola	Huambo Nova Lisboa	MOCAMEDES	Huambo Nova Lisboa	LOBITO	LOBITO	Monbaca Benguela	SAURIMO (HENRIQUE D	Monbaca Benguela	LOBITO	SAURIMO (HENRIQUE D	SAURIMO (HENRIQUE D
+Antigua and Barbuda	Vc Bird International Airport Antigua	COOLIDGE FIELD (UA)	BASSETERRE	Vc Bird International Airport Antigua	BASSETERRE	Charlestown / Newcast	Vc Bird International Airport Antigua	BASSETERRE	Vc Bird International Airport Antigua	Vc Bird International Airport Antigua	Vc Bird International Airport Antigua
+Argentina	Rio Grande B. A.	Ushuaia Aerodrome	EL CALAFATE AERO	Rio Grande B. A.	Salta Aerodrome	Salta Aerodrome	Santiago Del Estero Aero.	San Julian Aerodrome	San Martin	Santiago Del Estero Aero.	Santiago Del Estero Aero.
+Armenia	Yerevan	Yerevan	Yerevan	Yerevan	Yerevan	Yerevan	Yerevan	Yerevan	Yerevan	Yerevan	Yerevan
+Aruba	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport	Queen Beatrix Airport
+Australia	HEARD ISLAND (ATLAS	HEARD ISLAND (ATLAS	LIAWENEE AWS	BROWSE ISLAND AWS	MELBOURNE	Yulara Aws	Yulara Aws	Yulara Aws	Yulara Aws	Yulara Aws	Yulara Aws
+Austria	SONNBLICK	SONNBLICK	SONNBLICK	Niederosterreich / Krems-Langenlois Flugplatz	KRIMML	GUMPOLDSKIRCHEN	GMUNDEN	GMUNDEN	GMUNDEN	GMUNDEN	GMUNDEN
+Azerbaijan	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport	Baku / Bine Airport
+Bahamas	Nassau Airport	Freeport, Grand Bahama	Nassau Airport	Nassau Airport	Nassau Airport	Freeport, Grand Bahama	Nassau Airport	Freeport, Grand Bahama	Nassau Airport	Nassau Airport	Nassau Airport
+Bahrain	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport	Bahrain International Airport
+Bangladesh	LALMONIRHAT	CHANDPUR	LALMONIRHAT	DACCA/TEZGAON	SAIDPUR	CHITTAGONG	Chittagong Patenga	Chittagong Patenga	SAIDPUR	Chittagong Patenga	Chittagong Patenga
+Barbados	Grantley Adams	Grantley Adams	Grantley Adams	Grantley Adams	Grantley Adams	Grantley Adams	Grantley Adams	Grantley Adams	Grantley Adams	Grantley Adams	Grantley Adams
+Belarus	ORSHA	RISTNA	ORSHA	AINAZI	VALGA	BARANOVICHI	BOBRUISK	BARANOVICHI	BOBRUISK	Brest	Brest
+Belgium	Elsenborn	St-Hubert	Elsenborn	Munte	Gent / Industrie-Zone	Gent / Industrie-Zone	SEMMERZAKE (BAFB)	SEMMERZAKE (BAFB)	Spa / La Sauveniere	Oostende Airport	Schaffen
+Belize	HUNTING CAYE	HUNTING CAYE	Belize / Phillip Goldston Intl. Airport	HALF MOON CAYE	HUNTING CAYE	HUNTING CAYE	HUNTING CAYE	HUNTING CAYE	HUNTING CAYE	HUNTING CAYE	HUNTING CAYE
+Benin	YU ZHONG	YU ZHONG	YU ZHONG	YU ZHONG	Save	Kandi	Kandi	YU ZHONG	Kandi	MEILAN	Kandi
+Bermuda	Bermuda	Bermuda	Bermuda	Bermuda	Bermuda	Bermuda	Bermuda	Bermuda	Bermuda	Bermuda	Bermuda
+Bolivia	La Paz / Alto	La Paz / Alto	Charana	Tarija	Cochabamba	Oruro	Robore	Yacuiba	Oruro	Robore	Robore
+Bosnia and Herzegovina	Sarajevo / Butmir	Sarajevo / Butmir	Sarajevo / Butmir	Sarajevo / Butmir	Sarajevo / Butmir	Mostar	Mostar	Sarajevo / Butmir	Mostar	Sarajevo / Butmir	Sarajevo / Butmir
+Botswana	Seretse Khama International Airport	GABORONE	Jwaneng	Tsabong	Ghanzi	Tsabong	Tsabong	Selebi Phikwe	Tsabong	Tsabong	Tsabong
+Brazil	Curitiba Aeroporto	Curitiba Aeroporto	Passo Fundo	Boa Vista Aeropor-To	Teresina Aeroporto	Mocoro / 17 Rosado	Aracaju Aeroporto	Aracaju Aeroporto	Aracaju Aeroporto	Aracaju Aeroporto	Aracaju Aeroporto
+British Indian Ocean Territory	Diego Garcia	Diego Garcia	Diego Garcia	Diego Garcia	Diego Garcia	Diego Garcia	Diego Garcia	Diego Garcia	Diego Garcia	Diego Garcia	Diego Garcia
+British Virgin Islands	Beef Island, Tortola	WALLBLAKE	Beef Island, Tortola	EMPTY	Beef Island, Tortola	WALLBLAKE	Beef Island, Tortola	Beef Island, Tortola	Beef Island, Tortola	Beef Island, Tortola	Beef Island, Tortola
+Brunei	Brunei Airport	Brunei Airport	Brunei Airport	Brunei Airport	Brunei Airport	Brunei Airport	Brunei Airport	Brunei Airport	Brunei Airport	Brunei Airport	Brunei Airport
+Bulgaria	MUSSALA (TOP/SOMMET	MUSSALA (TOP/SOMMET	MUSSALA (TOP/SOMMET	Plovdiv	KUSTENDIL	MUSSALA (TOP/SOMMET	SANDANSKI	Gorna Orechovista	SLIVEN	BOTEV VRAH (TOP/SOM	BOTEV VRAH (TOP/SOM
+Burkina Faso	Bobo-Dioulasso	Bobo-Dioulasso	Boromo	Dori	Dori	Dori	Ouagadougou	Dori	Ouagadougou	Ouagadougou	Ouagadougou
+Cambodia	Phnom-Penh / Pochentong	Phnom-Penh / Pochentong	Siemreap	EMPTY	Siemreap	Phnom-Penh / Pochentong	Phnom-Penh / Pochentong	Phnom-Penh / Pochentong	Phnom-Penh / Pochentong	Phnom-Penh / Pochentong	Phnom-Penh / Pochentong
+Cameroon	Ngaoundere	Yaounde	Ngaoundere	Garoua	Douala Obs.	Garoua	Ngaoundere	Garoua	Garoua	Ngaoundere	Ngaoundere
+Canada	Aulvik National Park	Aulvik National Park	Aulvik National Park	Frelighsburg	Blue River	Frelighsburg	Frelighsburg	Frelighsburg	Frelighsburg	Fredericton	Fredericton
+Cape Verde	Sal	Sal	Sal	Sal	Sal	Sal	PRAIA	Sal	PRAIA	PRAIA	PRAIA
+Cayman Islands	ENIWETOK ATOLL AWS	ENIWETOK ATOLL AWS	Owen Roberts Airportgrand Cayman	EBON ATOLL AWS	MALEOLAP ATOLL	EBON ATOLL AWS	Owen Roberts Airportgrand Cayman	EBON ATOLL AWS	Owen Roberts Airportgrand Cayman	EBON ATOLL AWS	Owen Roberts Airportgrand Cayman
+Central African Republic	Berberati	Berberati	Berberati	Bangassou	Bangassou	Bangassou	Bangui	Bangassou	Bangui	Bangui	Bangui
+Chad	Ndjamena	Sarh	Ndjamena	Ndjamena	Sarh	Moundou	Ndjamena	Moundou	Ndjamena	Ndjamena	Ndjamena
+Chile	BERNARDO O`HIGGINS	BERNARDO O`HIGGINS	BERNARDO O`HIGGINS	Antofagasta	QUINTA NORMAL	Arica	Antofagasta	Antofagasta	Antofagasta	Antofagasta	Antofagasta
+China	TUOTUOHE	WUTAI SHAN	TUOTUOHE	Urum-Qi / Diwopu	BAOSHAN	TA KWU LING	DINGHAI	DEQEN	DEQEN	DEQEN	DEQEN
+Christmas Island	Christmas Island Aerodrome	Christmas Island Aerodrome	Christmas Island Aerodrome	Christmas Island Aerodrome	Christmas Island Aerodrome	Christmas Island Aerodrome	Cocos Island Airport	Cocos Island Airport	Cocos Island Airport	Cocos Island Airport	Cocos Island Airport
+Colombia	Ipiales / San Luis	Ipiales / San Luis	Bogota / Eldorado	Santa Marta / Simon Bolivar	Barrancabermeja / Yariguies	Riohacha / Almirante Padilla	Bogota / Eldorado	Leticia / Vasquez Cobo	Cartagena / Rafael Nunez	Bogota / Eldorado	Bogota / Eldorado
+Comoros	Hahaya International Airport	Dzaoudzi / Pamanzi Mayotte	MORONI AIRPORT (GRA	Dzaoudzi / Pamanzi Mayotte	Dzaoudzi / Pamanzi Mayotte	Dzaoudzi / Pamanzi Mayotte	MORONI AIRPORT (GRA	Hahaya International Airport	Dzaoudzi / Pamanzi Mayotte	Dzaoudzi / Pamanzi Mayotte	Dzaoudzi / Pamanzi Mayotte
+Congo	Brazzaville / Maya-Maya	Pointe-Noire	Ouesso	Pointe-Noire	Brazzaville / Maya-Maya	Ouesso	Pointe-Noire	Pointe-Noire	Pointe-Noire	Pointe-Noire	Pointe-Noire
+Cook Islands	MANGAIA ISLAND	RAROTONGA	MANGAIA ISLAND	RAROTONGA	Alofi / Niue	RAROTONGA	RAROTONGA	RAROTONGA	RAROTONGA	RAROTONGA	RAROTONGA
+Costa Rica	AGROPECURARIA	AGROPECURARIA	AGROPECURARIA	Juan Santamaria	Puerto Limon	Liberia	Juan Santamaria	Puerto Limon	Puerto Limon	Juan Santamaria	Juan Santamaria
+Croatia	ZAVIZAN	ZAVIZAN	ZAVIZAN	Rijeka / Omisalj	PUNTIJARKA	LASTOVO	Split / Resnik	Losinj Island	Split / Resnik	Split / Resnik	Split / Resnik
+Cuba	Varadero, Matanzas	Varadero, Matanzas	Aeropuerto Jose Marti, Rancho-Boyeros, Habana	Varadero, Matanzas	SAUA LA GRANDE VILL	Guantanamo, Oriente	Aeropuerto Jose Marti, Rancho-Boyeros, Habana	Santiago De Cuba, Oriente	Guantanamo, Oriente	Aeropuerto Jose Marti, Rancho-Boyeros, Habana	Guantanamo, Oriente
+Cyprus	Paphos Airport	Paphos Airport	Paphos Airport	Akrotiri	Athalassa	Athalassa	Paphos Airport	Athalassa	Paphos Airport	Paphos Airport	Paphos Airport
+Czech Republic	Karlovy Vary	Karlovy Vary	Karlovy Vary	Praga / Ruzyne	Karlovy Vary	Brno / Turany	Ostrava / Mosnov	Brno / Turany	Ostrava / Mosnov	Karlovy Vary	Ostrava / Mosnov
+Côte d'Ivoire	Man	Tabou	Man	Korhogo	Daloa	Korhogo	Korhogo	Abidjan	Korhogo	Korhogo	Korhogo
+Democratic Republic of the Congo	KINSHASA/NDJILI	KINSHASA/NDJILI	KINSHASA/NDJILI	EMPTY	KINSHASA/NDJILI	KINSHASA/NDJILI	KINSHASA/NDJILI	KINSHASA/NDJILI	KINSHASA/NDJILI	KINSHASA/NDJILI	KINSHASA/NDJILI
+Denmark	TORSHAVN	AKRABERG	Tirstrup	BLAAVANDSHUK	KOEBENHAVN/JAEGERSB	BLAAVANDSHUK	BLAAVANDSHUK	BLAAVANDSHUK	BLAAVANDSHUK	Avno Danish Air Force Base	Billund Lufthavn
+Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti	Djibouti
+Dominica	Melville Hall Airport	Melville Hall Airport	Canefield Airport	Canefield Airport	Canefield Airport	Melville Hall Airport	Canefield Airport	Canefield Airport	Canefield Airport	Canefield Airport	Canefield Airport
+Dominican Republic	HERRERA	Puerto Plata International	Puerto Plata International	Puerto Plata International	SANTO DOMINGO	Puerto Plata International	SANTO DOMINGO	Puerto Plata International	Puerto Plata International	SANTO DOMINGO	SANTO DOMINGO
+East Timor	Dilli / Dilli Airport	Dilli / Dilli Airport	Dilli / Dilli Airport	EMPTY	Dilli / Dilli Airport	Dilli / Dilli Airport	Dilli / Dilli Airport	Dilli / Dilli Airport	Dilli / Dilli Airport	Dilli / Dilli Airport	Dilli / Dilli Airport
+Ecuador	ASCAZUBI	Latacunga	Latacunga	Salinas / General Ulpiano Paez	Machala / General M. Serrano	Salinas / General Ulpiano Paez	Guayaquil / Simon Bolivar	SEYMOUR AEROPUERTO	Guayaquil / Simon Bolivar	Esmeraldas-Tachina	Guayaquil / Simon Bolivar
+Egypt	NEKHEL	Port Said	NEKHEL	MINYA	Luxor	MINYA	Mersa Matruh	Mersa Matruh	Mersa Matruh	Mersa Matruh	Mersa Matruh
+El Salvador	San Salvador / Ilopango	San Salvador / Ilopango	San Salvador / Ilopango	El Salvador Intl. Airport / Comalapa	San Miguel / El Papalon	San Salvador / Ilopango	Acajutla	San Salvador / Ilopango	Acajutla	Acajutla	El Salvador Intl. Airport / Comalapa
+Equatorial Guinea	Malabo/Fernando Poo	Malabo/Fernando Poo	Malabo/Fernando Poo	EMPTY	Malabo/Fernando Poo	BATA (RIO MUNI)	Malabo/Fernando Poo	BATA (RIO MUNI)	Malabo/Fernando Poo	Malabo/Fernando Poo	Malabo/Fernando Poo
+Estonia	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme	Tartu-Ulenurme
+Ethiopia	Asmara	Addis Ababa	Addis Ababa	Asmara	Asmara	Asmara	Addis Ababa	Asmara	Asmara	Addis Ababa	Addis Ababa
+Falkland Islands	Stanley Airport	Stanley Airport	Stanley Airport	EMPTY	Stanley Airport	Stanley Airport	Stanley Airport	Stanley Airport	Stanley Airport	Stanley Airport	Stanley Airport
+Fiji	SUVA KINGS WHARF	SUVA KINGS WHARF	SUVA KINGS WHARF	ONO-I-LAU AWS	VIWA AWS	ONO-I-LAU AWS	Rotuma	ONO-I-LAU AWS	Rotuma	Rotuma	Rotuma
+Finland	KILPISJARVI	KILPISJARVI	MUONIO	MARKET (AUT)	Ahtari	KUMLINGE ISLAND	KUMLINGE KK	KEVO	KUMLINGE KK	KEVO	KEVO
+Former Yugoslav Republic of Macedonia	Ohrid	Ohrid	Ohrid	Skopje-Petrovec	Skopje-Petrovec	Skopje-Petrovec	Ohrid	Skopje-Petrovec	Ohrid	Skopje-Petrovec	Skopje-Petrovec
+France	PIC DU MIDI	PIC DU MIDI	PIC DU MIDI	ALISTRO	BOURG ST-MAURICE	CARPENTRAS	CHASSIRON	Chartres	CHALONS/VATRY FAFB	CHATEAU-CHINON	CHASSIRON
+French Guiana	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau	Cayenne / Rochambeau
+French Polynesia	RAPA	RAPA	RAPA	Rangiroa / Tuamoto Island	ATUONA	Tubuai	Tubuai	Tubuai	Tubuai	Tubuai	Tubuai
+Gabon	BOGUS GABONNAISE	Libreville	Lambarene	Libreville	BOGUS GABONNAISE	Lambarene	BOGUS GABONNAISE	Libreville	Port-Gentil	BOGUS GABONNAISE	BOGUS GABONNAISE
+Georgia	Tbilisi	Tbilisi	Tbilisi	Tbilisi	Tbilisi	Tbilisi	Tbilisi	Tbilisi	Tbilisi	Tbilisi	Tbilisi
+Germany	ZUGSPITZE MOUNTAIN	ZUGSPITZE MOUNTAIN	ZUGSPITZE MOUNTAIN	GEISENHEIM	OBERSTDORF	GEISENHEIM	GELBELSEE	GELBELSEE	GEISENHEIM	GOERLITZ	GIESSEN
+Ghana	Accra	Accra	Accra	EMPTY	Accra	Accra	Accra	Accra	Accra	Accra	Accra
+Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibraltar
+Greece	FLORINA	FLORINA	FLORINA	Kozani Airport	Kozani Airport	METHONI	Kos Airport	Kithira Airport	Aktion Airport	Kozani Airport	Kozani Airport
+Greenland	SUMMIT	SUMMIT	SUMMIT	UPERNAVIK	Julianehaab	UPERNAVIK	UPERNAVIK	UPERNAVIK	UPERNAVIK	UPERNAVIK	UPERNAVIK
+Grenada	Point Salines Airport	Point Salines Airport	Point Salines Airport	Point Salines Airport	Point Salines Airport	Point Salines Airport	Point Salines Airport	Point Salines Airport	Point Salines Airport	Point Salines Airport	Point Salines Airport
+Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe	Le Raizet, Guadeloupe
+Guatemala	Quezaltenango	Quezaltenango	Quezaltenango	Guatemala Aeropuertola Aurora	Huehuetenango	Zacapa	TIKAL INTL	Guatemala Aeropuertola Aurora	Zacapa	TIKAL INTL	TIKAL INTL
+Guinea	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia	Conakry / Gbessia
+Guinea-Bissau	EMPTY	EMPTY	EMPTY	EMPTY	EMPTY	Bissau Aeroport	Bissau Aeroport	Bissau Aeroport	Bissau Aeroport	Bissau Aeroport	Bissau Aeroport
+Guyana	Georgetown	Georgetown	GEORGETOWN	GEORGETOWN	Georgetown	GEORGETOWN	GEORGETOWN	Georgetown	Georgetown	GEORGETOWN	GEORGETOWN
+Haiti	UEGA	UEGA	UEGA	Port-Au-Prince / Aeroport International	UEGA	Port-Au-Prince / Aeroport International	Port-Au-Prince / Aeroport International	Port-Au-Prince / Aeroport International	Port-Au-Prince / Aeroport International	Port-Au-Prince / Aeroport International	Port-Au-Prince / Aeroport International
+Honduras	La Esperanza	La Esperanza	La Esperanza	La Mesa San Pedro Sula	Catacamas	Yoro	Amapala	Roatan	Amapala	Amapala	Amapala
+Hong Kong	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport	Hong Kong Inter-National Airport
+Hungary	KEKESTETO	KEKESTETO	KEKESTETO	Tokol	Miskolc	MOSONMAGYAROVAR	MOSONMAGYAROVAR	KESZTHELY	MOSONMAGYAROVAR	KEKESTETO	KEKESTETO
+Iceland	GRIMSEY	GRIMSEY	GRIMSEY	GRIMSEY	KIRKJUBAEJARKLAUSTU	GRIMSEY	GRIMSEY	GRIMSEY	GRIMSEY	GRIMSEY	GRIMSEY
+India	SRINAGAR	SRINAGAR	SRINAGAR	New Delhi / Palam	TEZPUR	BANGALORE/HINDUSTAN	Siliguri	BANGALORE/HINDUSTAN	SRINAGAR	SRINAGAR	SRINAGAR
+Indonesia	Ujung Pandang / Hasanuddin	Enarotali	MASAMBA/ANDI JEMMA	Denpasar / Ngurah-Rai	Tanjung Redep / Berau	Waingapu / Mau Hau	Tanjungpandan / Buluh Tumbang	Sanana	Tanjungpandan / Buluh Tumbang	Tanjungpandan / Buluh Tumbang	Tanjungpandan / Buluh Tumbang
+Iran	SARAB	ARDABIL	Shahre-Kord	Abadan	Kashan	Tehran-Mehrabad	Zahedan	Kashan	Kashan	Zanjan	Zanjan
+Iraq	RUTBAH	RUTBAH	SULAIMANIYA	Baghdad	KANAQIN	Baghdad	Baghdad	Baghdad	Baghdad	Baghdad	Baghdad
+Ireland	Knock/Connaught	MALIN HEAD	MULLINGAR	FINNER	BIRR	CLAREMORRIS	CLAREMORRIS	Cork Airport	CLAREMORRIS	Dublin Airport	CLONES
+Israel	Jerusalem Airport	Jerusalem Airport	JERUSALEM	Ovda	RAMAT-DAVID	Eilat	Sde-Haifa Haifa	Ovda	SDE-DOV (TEL-AVIV)	Sde-Haifa Haifa	Sde-Haifa Haifa
+Italy	Pian Rosa	Pian Rosa	Pian Rosa	Pratica Di Mare	S. VALENTINO ALLA M	Pontecagnano Air Force Base	PIANOSA ISLAND	Pontecagnano Air Force Base	PIANOSA ISLAND	Piacenza	Piacenza
+Jamaica	Montego Bay / Sangster	Montego Bay / Sangster	Kingston / Norman Manley	Kingston / Norman Manley	Kingston / Norman Manley	Kingston / Norman Manley	Kingston / Norman Manley	Kingston / Norman Manley	Kingston / Norman Manley	Kingston / Norman Manley	Kingston / Norman Manley
+Japan	FUJISAN	FUJISAN	FUJISAN	FUJISAN	FUJISAN	KURE	Yoron Island	TOYOOKA	TSU	Toyama Airport	Toyama Airport
+Jordan	Queen Alia Airport	Amman Airport	Queen Alia Airport	MAAN	GHOR SAFI	Amman Airport	H-5 SAFAWI	H-5 SAFAWI	Irbid	H-5 SAFAWI	H-5 SAFAWI
+Kazakhstan	Tselinograd / Aqmola	Tselinograd / Aqmola	Tselinograd / Aqmola	Mangghystan	Almaty	Mangghystan	Mangghystan	Mangghystan	Kzyl-Orda	Tselinograd / Aqmola	Tselinograd / Aqmola
+Kenya	Kericho	Eldoret	Nakuru	Nakuru	Kitale	Nakuru	Nairobi, Jomo Kenyatta	Nakuru	Nakuru	Nairobi, Jomo Kenyatta	Nairobi, Jomo Kenyatta
+Kiribati	TARAWA TIDE AWS	TARAWA TIDE AWS	Tarawa	TARAWA TIDE AWS	Arorae	TARAWA TIDE AWS	Tarawa	Tarawa	Tarawa	Tarawa	Tarawa
+Kuwait	BUBIYAN	BUBIYAN	BUBIYAN	UMM AL-AISH	EXPERIMENTAL FARM	AL-NWAISEEB	ABDALY	ABDALY	AL-NWAISEEB	ABDALY	ABDALY
+Kyrgyzstan	WARRA	WARRA	Chuy / Bishkek Airport	MARIA ISLAND	GROVE RESEARCH STAT	LAUNCESTON AIRPORT	LAUNCESTON AIRPORT	LAUNCESTON AIRPORT	LAUNCESTON AIRPORT	LAUNCESTON AIRPORT	LAUNCESTON AIRPORT
+Laos	PLAINE DES JARRES	SOUTHWEST PASS	PLAINE DES JARRES	SOUTHWEST PASS	Luang-Prabang	SOUTHWEST PASS	Pakse	SOUTHWEST PASS	Pakse	Pakse	Pakse
+Latvia	Riga	Riga	Riga	Riga	Liepaja East	Riga	Liepaja East	Riga	Riga	Riga	Riga
+Lebanon	VARENA	VARENA	VARENA	Beyrouth Aeroport	HOUCHE-AL-OUMARA	Beyrouth Aeroport	Beyrouth Aeroport	Beyrouth Aeroport	Beyrouth Aeroport	Beyrouth Aeroport	Beyrouth Aeroport
+Liberia	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD	ROBERTS FIELD
+Libya	SHAHAT	SHAHAT	HON	JALO	OBARI	JALO	YEFREN	YEFREN	ZUARA	YEFREN	YEFREN
+Lithuania	Vilnius	Vilnius	Vilnius	Vilnius	Kaunas	Palanga	Palanga	Vilnius	Vilnius	Kaunas	Kaunas
+Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg	Luxembourg / Luxembourg
+Macau	RINCHINLHUMBE	RINCHINLHUMBE	RINCHINLHUMBE	UNDERKHAAN	HOVD	DIBA	Taipa	ULIASTAI	UNDERKHAAN	UNDERKHAAN	UNDERKHAAN
+Madagascar	Antananarivo / Ivato	Antananarivo / Ivato	Antananarivo / Ivato	Diego-Suarez	Tamatave	Morondava	Diego-Suarez	Sainte-Marie Aerodrome	Fascene Nossi-Be	Diego-Suarez	Diego-Suarez
+Malaysia	OKHA	OKHA	OKHA	Tawau	Kuala Lumpur / Subang	OKHA	Johore Bharu / Senai	OKHA	Kota Bharu	Johore Bharu / Senai	Johore Bharu / Senai
+Maldives	Gan	Gan	Gan	HANIMAADHOO	KAADEDHDHOO	HANIMAADHOO	Male	Male	Male	Male	Male
+Mali	PASSAGE ISLAND	PASSAGE ISLAND	PASSAGE ISLAND	STANNARD ROCK	Sikasso	STANNARD ROCK	STANNARD ROCK	STANNARD ROCK	STANNARD ROCK	STANNARD ROCK	STANNARD ROCK
+Malta	Luqa	Luqa	Luqa	Luqa	Luqa	Luqa	Luqa	Luqa	Luqa	Luqa	Luqa
+Marshall Islands	Majuro / Marshall Island	Majuro / Marshall Island	Majuro / Marshall Island	Kwajalein / Bucholz	Majuro / Marshall Island	Majuro / Marshall Island	Majuro / Marshall Island	Kwajalein / Bucholz	Majuro / Marshall Island	Majuro / Marshall Island	Majuro / Marshall Island
+Martinique	Le Lamentin	CARAVELLE	Le Lamentin	CARAVELLE	Le Lamentin	CARAVELLE	Le Lamentin	Le Lamentin	Le Lamentin	Le Lamentin	Le Lamentin
+Mauritania	Nouadhibou	Nouadhibou	Nouadhibou	Nouadhibou	Tidjikja	Nouadhibou	Nouadhibou	Nouadhibou	Boutilimit	Nouadhibou	Nouadhibou
+Mauritius	BUZZARDS BAY	BUZZARDS BAY	BUZZARDS BAY	BUZZARDS BAY	VACOAS (MAURITIUS)	BUZZARDS BAY	Rodrigues	Rodrigues	Rodrigues	Rodrigues	Rodrigues
+Mexico	Puebla, Pue.	ZACATECAS (CITY)	Puebla, Pue.	Cancun International Airport	GUANAJUATO	MEXICALI	Aerop. Internacional Merida, Yuc	Aerop. Internacional Monterrey, N. L.	Aerop. Internacional Monterrey, N. L.	Aerop. Internacional Merida, Yuc	Aerop. Internacional Merida, Yuc
+Micronesia	Ponape Island	OROLUK ISLAND	Ponape Island	ULUI ATOLL (AMOS)	Ponape Island	ULUI ATOLL (AMOS)	POHNPEI WEATHER CEN	ULUI ATOLL (AMOS)	POHNPEI WEATHER CEN	POHNPEI WEATHER CEN	POHNPEI WEATHER CEN
+Moldova	Kisinev	Kisinev	Kisinev	Kisinev	Kisinev	Kisinev	Kisinev	Kisinev	Kisinev	Kisinev	Kisinev
+Mongolia	Ulan Bator	Ulan Bator	Ulan Bator	Ulan Bator	Ulan Bator	Ulan Bator	Ulan Bator	Ulan Bator	Ulan Bator	Ulan Bator	Ulan Bator
+Morocco	Ifrane	Ifrane	Ifrane	DAKHLA	Taza	Tan-Tan	Meknes	Nouasseur	MIDELT	Meknes	Meknes
+Mozambique	Lichinga	Lichinga	Lichinga	Maputo / Mavalane	Maputo / Mavalane	Pemba	Maputo / Mavalane	Beira	Maputo / Mavalane	Maputo / Mavalane	Maputo / Mavalane
+Myanmar	Kengtung	LOIKAW	Lashio	Mingaladon	Kengtung	Lashio	Dawei	Bhamo	MANDALAY INTL	Dawei	Kengtung
+Namibia	Walvis Bay, Rooikop	Walvis Bay, Rooikop	J. G. Strijdom	Walvis Bay, Rooikop	Grootfontein	Walvis Bay, Rooikop	Windhoek/Eros (SAAF)	LUDERITZ (DIAZ POIN	Windhoek/Eros (SAAF)	Windhoek/Eros (SAAF)	Windhoek/Eros (SAAF)
+Nauru	MT GININI	MT GININI	MT GININI	TAREE	TERREY HILLS RESERV	CHARLTON	CHARLTON	CHARLTON	CHARLTON	CHARLTON	CHARLTON
+Nepal	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport	Kathmandu Airport
+Netherlands	Groningen Airport Eelde	F-03 (PLATFORM)	Twenthe	K13-A	Twenthe	ARCEN AWS	ARCEN AWS	ARCEN AWS	ARCEN AWS	ARCEN AWS	ARCEN AWS
+Netherlands Antilles	Juliana Airport, Saint Maarten	Juliana Airport, Saint Maarten	Juliana Airport, Saint Maarten	Flamingo Airport, Bonaire	Juliana Airport, Saint Maarten	Flamingo Airport, Bonaire	Hato Airport, Curacao	Flamingo Airport, Bonaire	Hato Airport, Curacao	Juliana Airport, Saint Maarten	Hato Airport, Curacao
+New Caledonia	DUCK PIER	MATTHEW (ILOT)	DUCK PIER	DIAMOND SHOALS (LS)	POINDIMIE (NLLE-CAL	DIAMOND SHOALS (LS)	Noumea Nlle-Caledonie	Moue Ile Des Pins	Noumea Nlle-Caledonie	Noumea Nlle-Caledonie	Noumea Nlle-Caledonie
+New Zealand	CAMPBELL ISLAND AWS	CAMPBELL ISLAND AWS	WAIOURU AWS	Wellington Airport	WAIOURU AWS	FAREWELL SPIT AWS	FAREWELL SPIT AWS	FAREWELL SPIT AWS	FAREWELL SPIT AWS	FAREWELL SPIT AWS	FAREWELL SPIT AWS
+Nicaragua	Jinotega	Jinotega	Jinotega	Puerto Cabezas	Jinotega	Puerto Cabezas	Bluefields	Bluefields	Bluefields	Bluefields	Bluefields
+Niger	MAGARIA	Zinder	Bilma	Agadez	MAGARIA	Bilma	NGUIGMI	Bilma	NGUIGMI	NGUIGMI	NGUIGMI
+Nigeria	Lagos / Ikeja	Lagos / Ikeja	MAIDUGURI	EMPTY	Lagos / Ikeja	MAIDUGURI	Lagos / Ikeja	MAIDUGURI	MAIDUGURI	Lagos / Ikeja	Lagos / Ikeja
+North Korea	SAMJIYON	SAMJIYON	SAMJIYON	CHONGJIN	KANGGYE	CHANGJIN	SUPUNG	WONSAN	WONSAN	SINUIJU	SINUIJU
+Norway	Hopen	Hopen	Svalbard Lufthavn	TORSVAG FYR	NESBYEN-SKOGLUND	TORUNGEN FYR	TORUNGEN FYR	TROMSO	TORUNGEN FYR	TROMSO	TORUNGEN FYR
+Oman	Saiq	Saiq	Saiq	Salalah	IBRA	Sohar Majis	Thumrait	Thumrait	Thumrait	Thumrait	Thumrait
+Pakistan	MURREE	MURREE	KALAT	Karachi Airport	Sibi	Karachi Airport	Karachi Airport	Karachi Airport	Karachi Airport	Karachi Airport	Karachi Airport
+Palau	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island	Koror / Palau Island
+Panama	JAQUE	JAQUE	Tocumen	Marcos A. Gelabert	Tocumen	David	Marcos A. Gelabert	David	David	Marcos A. Gelabert	Marcos A. Gelabert
+Papua New Guinea	POPONDETTA	LOMBRUM MANUS ISLAN	PORT MORESBY W.O.	LOMBRUM MANUS ISLAN	POPONDETTA	LOMBRUM MANUS ISLAN	LAE	MOMOTE	LAE	LAE	LAE
+Paraguay	Encarnacion	Asuncion / Aeropuerto	Encarnacion	Aeropuerto Guarany	CAAZAPA	PILAR	Aeropuerto Guarany	SAN JUAN BAUTISTA M	PUERTO CASADO	Aeropuerto Guarany	Aeropuerto Guarany
+Peru	Andahuayla	Andahuayla	Andahuayla	Pisco	Tingo Maria	Talara	Pisco	Pisco	Pisco	Pisco	Pisco
+Philippines	Baguio	Baguio	Baguio	Ninoy Aquino Inter-National Airport	Malaybalay	Clark Ab	Clark Ab	Legaspi	CORON	Clark Ab	Clark Ab
+Poland	KASPROWY WIERCH	KASPROWY WIERCH	KASPROWY WIERCH	Gdansk-Rebiechowo	NOWY SACZ	ZAMOSC	ZAMOSC	ZAMOSC	ZAMOSC	Koszalin	Koszalin
+Portugal	PENHAS DOURADAS	PENHAS DOURADAS	PENHAS DOURADAS	Lisboa / Portela	Vila Real	SAGRES	Santa Maria Acores	SAGRES	SAGRES	Santa Maria Acores	Santa Maria Acores
+Puerto Rico	Aquadilla / Borinquen	Aquadilla / Borinquen	Mayaguez / Eugenio	PONCE/MERCEDITA	Ponce / Mercedita	PONCE/MERCEDITA	Aquadilla / Borinquen	Mayaguez / Eugenio	Aquadilla / Borinquen	Aquadilla / Borinquen	Aquadilla / Borinquen
+Qatar	Doha International Airport	DOHA PORT	Doha International Airport	Doha International Airport	Doha International Airport	Doha International Airport	Doha International Airport	Doha International Airport	Doha International Airport	Doha International Airport	Doha International Airport
+Romania	VARFU OMU	VARFU OMU	VARFU OMU	Bucuresti Otopeni	STANA DE VALE	ODORHEI	ODORHEI	ODORHEI	ODORHEI	ROSIORI DE VEDE	ROSIORI DE VEDE
+Russia	ANDREYA ISLAND	ANDREYA ISLAND	OJMJAKON	ZILANI	PASANAURI	ZILANI	ZUGDIDI	ZYRJANKA	ZUGDIDI	POLTAVKA	POLTAVKA
+Rwanda	Kigali	Kigali	Kigali	EMPTY	Kigali	Kigali	Kigali	Kigali	Kigali	Kigali	Kigali
+Réunion	Saint-Denis / Gillot	Saint-Denis / Gillot	Saint-Denis / Gillot	ILE EUROPA	ILES GLORIEUSES	SERGE-FROLOW (ILE T	ILE EUROPA	SERGE-FROLOW (ILE T	ILE EUROPA	ILE EUROPA	ILE EUROPA
+Saint Helena	ST. HELENA IS.	ST. HELENA IS.	ST. HELENA IS.	Wide Awake Field Ascension Island	ST. HELENA IS.	ST. HELENA IS.	Wide Awake Field Ascension Island	Wide Awake Field Ascension Island	Wide Awake Field Ascension Island	Wide Awake Field Ascension Island	Wide Awake Field Ascension Island
+Saint Kitts and Nevis	Golden Rock	Golden Rock	Golden Rock	Golden Rock	Golden Rock	Golden Rock	Golden Rock	Golden Rock	Golden Rock	Golden Rock	Golden Rock
+Saint Lucia	Hewanorra International Airport	Hewanorra International Airport	Vigie	Hewanorra International Airport	Vigie	Hewanorra International Airport	Hewanorra International Airport	Hewanorra International Airport	Hewanorra International Airport	Hewanorra International Airport	Hewanorra International Airport
+Saint Pierre and Miquelon	Saint-Pierre	Saint-Pierre	Saint-Pierre	Saint-Pierre	Saint-Pierre	Saint-Pierre	Saint-Pierre	Saint-Pierre	Saint-Pierre	Saint-Pierre	Saint-Pierre
+Saint Vincent and the Grenadines	CASTRIES	CASTRIES	CASTRIES	Arnos Vale	Arnos Vale	CASTRIES	Arnos Vale	Arnos Vale	Arnos Vale	Arnos Vale	Arnos Vale
+Samoa	FALEOLO ARPT	FALEOLO ARPT	FALEOLO ARPT	CAPE TAPANGA	AVAO	CAPE TAPANGA	CAPE TAPANGA	CAPE TAPANGA	CAPE TAPANGA	CAPE TAPANGA	CAPE TAPANGA
+Saudi Arabia	Khamis Mushait	Abha	Khamis Mushait	Al Qaysumah	Makkah	Jeddah	Al Baha	AL-HADA	Al Baha	Al Baha	Al Baha
+Senegal	Dakar / Yoff	Dakar / Yoff	Diourbel	Saint-Louis	Matam	Saint-Louis	Saint-Louis	Dakar / Yoff	Podor	Saint-Louis	Podor
+Seychelles	FOLLY ISLAND	FOLLY ISLAND	FOLLY ISLAND	FOLLY ISLAND	Seychelles Inter-National Airport	FOLLY ISLAND	FOLLY ISLAND	FOLLY ISLAND	FOLLY ISLAND	FOLLY ISLAND	FOLLY ISLAND
+Singapore	Singapore / Paya Lebar	Singapore / Paya Lebar	Singapore / Paya Lebar	Singapore / Changi Airport	Singapore / Paya Lebar	Singapore / Paya Lebar	Singapore / Changi Airport	Singapore / Paya Lebar	Singapore / Changi Airport	Singapore / Changi Airport	Singapore / Changi Airport
+Slovakia	LOMNICKY STIT	LOMNICKY STIT	LOMNICKY STIT	CESKE BUDEJOVICE	ZILINA	POPRAD-GANOVCE	POPRAD-GANOVCE	PLZEN LINE	POPRAD-GANOVCE	NITRA	NITRA
+Slovenia	KREDARICA	KREDARICA	KREDARICA	Portoroz	LJUBLJANA/BEZIGRAD	LISCA	Portoroz	LISCA	Portoroz / Secovlje	NOVO MESTO	NOVO MESTO
+Solomon Islands	Honiara / Henderson	Honiara / Henderson	Honiara / Henderson	Honiara / Henderson	Honiara / Henderson	Honiara / Henderson	Honiara / Henderson	Santa Cruz	Honiara / Henderson	Honiara / Henderson	Honiara / Henderson
+South Africa	Marion Island	Marion Island	Marion Island	Vereeniging	Tristan Da Cunha	VAN REENEN	Upington	VAN REENEN	Upington	Upington	Upington
+South Georgia and the South Sandwich Islands	SOUTH THULE ISLAND	SOUTH THULE ISLAND	SOUTH THULE ISLAND	PEBBLE ISLAND	GRYTVIKEN S.GEORGIA	PEBBLE ISLAND	PEBBLE ISLAND	Mount Pleasant Airport	PEBBLE ISLAND	Mount Pleasant Airport	PEBBLE ISLAND
+South Korea	DAEGWALLYEONG	DAEGWALLYEONG	DAEGWALLYEONG	JEONJU	HYUN NI (KOR-ARMY)	CHUPUNGNYEONG	CHINHAE (KOR-ARMY)	CHEORWON	CHEORWON	CHEONGJU	CHEONGJU
+Spain	NAVACERRADA	NAVACERRADA	NAVACERRADA	Moron De La Frontera	CIUDAD REAL	Moron De La Frontera	Menorca / Mahon	Moron De La Frontera	Moron De La Frontera	Menorca / Mahon	Menorca / Mahon
+Sri Lanka	NUWARA ELIYA	NUWARA ELIYA	NUWARA ELIYA	HAMBANTOTA	RATNAPURA	JAFFNA	Anuradhapura	KANKASANTURAI	Anuradhapura	Anuradhapura	VAVUNIYA
+Sudan	El Fasher	HONIARA	El Fasher	Wadi Halfa	El Fasher	Wadi Halfa	El Fasher	Wadi Halfa	El Fasher	El Fasher	El Fasher
+Suriname	Zanderij	NICKERIE	Zanderij	Zanderij	Zanderij	NICKERIE	Zanderij	ZORG EN HOOP	NICKERIE	Zanderij	Zanderij
+Swaziland	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport	Manzini / Matsapa Airport
+Sweden	NAIMAKKA	STEKENJOKK	NIKKALUOKTA	VADEROARNA (AUT)	TANNAS	YLINENJARVI	YLINENJARVI	YLINENJARVI	YLINENJARVI	YSTAD &	Gallivare
+Switzerland	JUNGFRAUJOCH	JUNGFRAUJOCH	JUNGFRAUJOCH	LAEGERN	LAEGERN	LOCARNO-MONTI	LOCARNO-MONTI	LOCARNO-MONTI	LOCARNO-MONTI	LOCARNO-MONTI	LOCARNO-MONTI
+Syria	NABK	NABK	NABK	Deir Ezzor	RAQQA	ABUKMAL	DARAA	DARAA	DARAA	DARAA	DARAA
+São Tomé and Príncipe	S. Tome	S. Tome	S. Tome	EMPTY	S. Tome	S. Tome	S. Tome	S. Tome	S. Tome	S. Tome	S. Tome
+Taiwan	MOUNT MORRISON	MOUNT MORRISON	MOUNT MORRISON	Dongshi	JOYUTANG	Dongshi	Lan Yu	HENGCHUN (=595590)	Lan Yu	Lan Yu	Lan Yu
+Tajikistan	Dushanbe	Dushanbe	Dushanbe	Dushanbe	Dushanbe	Dushanbe	Dushanbe	Dushanbe	Dushanbe	Dushanbe	Dushanbe
+Tanzania	Mbeya	Mbeya	SUMBAWANGA	Arusha	Morogoro	Arusha	Bukoba	Arusha	Bukoba	Bukoba	Bukoba
+Thailand	KHAO KHEO	KHAO KHEO	BOGUS THAILAND	Hua Hin	Mae Sariang	LOP BURI	SUPHAN BURI	Tak	Songkhla	SUPHAN BURI	SUPHAN BURI
+The Gambia	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum	Banjul / Yundum
+Togo	Atakpame	Lome	Niamtougou	Lome	Sokode	Atakpame	Niamtougou	Lome	Lome	Niamtougou	Niamtougou
+Tonga	FUAAMOTU	NUKUALOFA	FUAAMOTU	NUKUALOFA	FUAAMOTU	NUKUALOFA	Haapai	Haapai	Haapai	Haapai	Haapai
+Trinidad and Tobago	Piarco International Airport, Trinidad	Piarco International Airport, Trinidad	Piarco International Airport, Trinidad	Crown Pt./ Scarborou	Piarco International Airport, Trinidad	Crown Point Airport, Tobago	Piarco International Airport, Trinidad	Piarco International Airport, Trinidad	Piarco International Airport, Trinidad	Piarco International Airport, Trinidad	Piarco International Airport, Trinidad
+Tunisia	THALA	THALA	THALA	Habib Bourguiba	Kairouan	El Borma	Monastir-Skanes	MEDENINE	MEDENINE	Monastir-Skanes	Monastir-Skanes
+Turkey	Erzurum	Erzurum	Erzurum	Dalaman	BINGOL	Izmir / Cigli	Urfa	Izmir / Cigli	Usak	Usak	Usak
+Turkmenistan	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal	Ashkhabad / Ahal
+Tuvalu	Funafuti	FUNAFATI	Funafuti	FUNAFATI	FUNAFUTI	FUNAFATI	Funafuti	FUNAFATI	Funafuti	Funafuti	Funafuti
+Uganda	Kabale	Kabale	Kabale	Tororo	Tororo	Tororo	Tororo	Tororo	Tororo	Tororo	Tororo
+Ukraine	SUMY	SUMY	SUMY	Boryspil	MOHYLIV-PODILSKYI	HUBYNYKHA	YALTA	MARIUPOL	YALTA	KHERSON	KHERSON
+United Arab Emirates	Sharjah International Airport	Sharjah International Airport	Sharjah International Airport	Ras Al Khaimah International Airport	Ras Al Khaimah International Airport	Sharjah International Airport	Ras Al Khaimah International Airport	Abu Dhabi Bateen Airport	Fujairah	Ras Al Khaimah International Airport	Ras Al Khaimah International Airport
+United Kingdom	ARGENTINE ISLAND	ARGENTINE ISLAND	ARGENTINE ISLAND	ENVIRONM BUOY 62148	CARLISLE	ENVIRONM BUOY 62148	ENVIRONM BUOY 62148	ENVIRONM BUOY 62148	ENVIRONM BUOY 62148	ENVIRONM BUOY 62148	ENVIRONM BUOY 62148
+United States	THULE GREENLAND/SIT	THULE GREENLAND/SIT	THULE GREENLAND/SIT	Abingdon	GRAND MARAIS	Abingdon	Abingdon	Abingdon	Abingdon	Abilene, Abilene Regional Airport	Abilene, Abilene Regional Airport
+United States Minor Outlying Islands	Johnston Island	Johnston Island	Johnston Island	Johnston Island	Pago Pago / Int. Airp.	Johnston Island	Johnston Island	Johnston Island	Pago Pago / Int. Airp.	Pago Pago / Int. Airp.	Pago Pago / Int. Airp.
+Uruguay	Carrasco	Carrasco	FLORIDA	ROCHA	Treinta Y Tres	Colonia	PRADO	Maldonado / Punta Est	PRADO	PRADO	Paysandu
+Uzbekistan	Nukus / Karakalpakstan	Nukus / Karakalpakstan	Nukus / Karakalpakstan	Tashkent	Tashkent	Tamdy	Tamdy	Tamdy	Tamdy	Tashkent	Tashkent
+Vanuatu	ISLE OF SHOALS	ISLE OF SHOALS	ISLE OF SHOALS	ISLE OF SHOALS	Sola Vanua Lava	ISLE OF SHOALS	Bauerfield Efate	ISLE OF SHOALS	Bauerfield Efate	Bauerfield Efate	Bauerfield Efate
+Venezuela	Merida	Merida	Merida	La Orchila	Sto. Domingo	BOGUS VENEZUELAN	Sto. Domingo	La Orchila	Sto. Domingo	Sto. Domingo	Sto. Domingo
+Vietnam	SA PA	SA PA	SA PA	Ho Chi Minh	AN HOA	HOANG SA (PATTLE)	Ho Chi Minh	HUYEN TRAN	Ho Chi Minh	Ho Chi Minh	Ho Chi Minh
+Western Sahara	Villa Cisneros	Villa Cisneros	Villa Cisneros	Villa Cisneros	Villa Cisneros	Villa Cisneros	Villa Cisneros	Villa Cisneros	Villa Cisneros	Villa Cisneros	Villa Cisneros
+Yemen	DHAMAR	DHAMAR	DHAMAR	Mokha	Sayun	MARIB	ADEN KHORMAKSAR	ADEN KHORMAKSAR	ADEN KHORMAKSAR	ADEN KHORMAKSAR	ADEN KHORMAKSAR
+Yugoslavia	KREDARICA	KREDARICA	KREDARICA	Podgorica Titograd	LOZNICA	ZENICA	BAR	BUGOJNO	BAR	Banja Luka	Banja Luka
+Zambia	Lusaka Internationalairport	Lusaka Internationalairport	Lusaka Internationalairport	EMPTY	Lusaka Internationalairport	Lusaka Internationalairport	Lusaka Internationalairport	Lusaka Internationalairport	Lusaka Internationalairport	Lusaka Internationalairport	Lusaka Internationalairport
+Zimbabwe	GRASSLANDS	GRASSLANDS	Gweru	Beitbridge	Beitbridge	Beitbridge	Beitbridge	Beitbridge	Beitbridge	Beitbridge	Beitbridge

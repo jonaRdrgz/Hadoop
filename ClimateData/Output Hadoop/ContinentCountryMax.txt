@@ -1,0 +1,6 @@
+Africa	Niger	Senegal	Djibouti	British Indian Ocean Territory	Kenya	South Africa	Algeria	Cameroon	Saint Helena	Burkina Faso	Libya
+Asia	Saudi Arabia	Saudi Arabia	Saudi Arabia	Russia	Japan	Japan	Russia	Malaysia	Taiwan	Malaysia	Russia
+Europe	France	France	France	Italy	United Kingdom	Greece	Switzerland	Croatia	Germany	Germany	United Kingdom
+North America	Cayman Islands	Cayman Islands	Cayman Islands	United States Minor Outlying Islands	United States	United States	Canada	Guatemala	United States	United States	Mexico
+Oceania	Samoa	Australia	Samoa	Micronesia	Australia	Australia	Australia	Solomon Islands	Australia	Australia	New Zealand
+South America	Brazil	Colombia	Brazil	Peru	Chile	Chile	South Georgia and the South Sandwich Islands	Brazil	Ecuador	Argentina	South Georgia and the South Sandwich Islands
