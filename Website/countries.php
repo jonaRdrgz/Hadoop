@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>METEO : Stats</title>
+    <title>METEO : Countries</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
     <!-- Font Awesome -->
@@ -72,8 +72,8 @@
           <ul id="top-menu" class="nav navbar-nav main-nav menu-scroll">
             <li><a href="index.html">Home</a></li> 
             <li><a href="continents.php">Continents</a></li>
-            <li><a href="countries.php">Countries</a></li>                    
-            <li class="active"><a href="stats.php">Stats</a></li>
+            <li class = "active"><a href="countries.php">Countries</a></li>                    
+            <li><a href="stats.php">Stats</a></li>
           </ul>                            
         </div><!--/.nav-collapse -->       
       </div>          
@@ -103,25 +103,41 @@
 
   <!-- Start call to action -->
   <section id="call-to-action">
-    <img src="assets/images/waves.jpg" style="width: 100%; height: 140px" alt="img">
+    <img src="assets/images/nature.jpg" style="width: 100%" alt="img">
     <div class="call-to-overlay">
       <div class="container">
         <div class="call-to-content wow fadeInUp">
-          <h2>Let's talk numbers</h2>
+          <h2>Search by country</h2>
         </div>
       </div>
     </div> 
   </section>
   <!-- End call to action -->
 
-  <!-- Start Countries Max Values section -->
-  <section id="countrieshivalues">
+  <div class="search-area" style="margin-top: 20px; margin-right: 440px; margin-bottom: 50px">
+    <form action="">
+      <input style="width: 400px" id="search" name="search" type="text" placeholder="Enter country name">
+      <input id="search_submit" value="Rechercher" type="submit">
+    </form>
+  </div> 
+
+  <div id="navbar2" class="navbar-collapse collapse">
+    <ul id="top-menu2" class="nav navbar-nav main-nav menu-scroll" style="margin-left: -80px; margin-bottom: 30px">
+      <li><a href="#yearmaxvalue">Years with Highest Values</a></li> 
+      <li><a href="#yearminvalue">Years with Lowest Values</a></li>
+      <li><a href="#stationmaxvalue">Stations with Highest Values</a></li>                    
+      <li><a href="#stationminvalue">Stations with Lowest Values</a></li>
+    </ul>                            
+  </div>
+
+  <!-- Start Yearly Max Values section -->
+  <section id="yearmaxvalue">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="pricing-table-area">
             <div class="title-area">
-              <h2 class="tittle" style="margin-top: 50px">Countries with Highest Values</h2>
+              <h2 class="tittle" style="margin-top: 50px">Years with Highest Values</h2>
               <span class="tittle-line"></span>
             </div>
             <!-- service content -->
@@ -130,77 +146,77 @@
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Average Temperature</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Average Maximum Temperature</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Average Minimum Temperature</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Rain/Snow Total</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Average Wind Speed</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Rainy Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Snow Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Storm Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Foggy Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Tornado Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Hail Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
@@ -213,14 +229,14 @@
   </section>
   <!-- End Yearly Max Values section -->
 
-  <!-- Start Countries Min Values section -->
-  <section id="countrieslowvalues">
+  <!-- Start Yearly Min Values section -->
+  <section id="yearminvalue">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="pricing-table-area">
             <div class="title-area">
-              <h2 class="tittle" style="margin-top: 30px">Countries with Lowest Values</h2>
+              <h2 class="tittle" style="margin-top: 50px">Years with Lowest Values</h2>
               <span class="tittle-line"></span>
             </div>
             <!-- service content -->
@@ -229,77 +245,77 @@
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Average Temperature</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Average Maximum Temperature</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Average Minimum Temperature</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Rain/Snow Total</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Average Wind Speed</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Rainy Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Snow Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Storm Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Foggy Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Tornado Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
                   <li class="wow slideInUp">
                     <div class="single-price">
                       <h4 class="price-header" style="font-size: 18px">Hail Days</h4>
-                      <span class="price-amount" style="font-size: 18px">Country</span>
+                      <span class="price-amount" style="font-size: 18px">Year</span>
                       <p style="font-size: 14px">Value</p>
                     </div>
                   </li>
@@ -310,7 +326,205 @@
       </div>
     </div>
   </section>
-  <!-- End Yearly Min Values section -->
+  <!-- End Yearly Min Values Section -->
+
+  <!-- Start Stations with Max Values section -->
+  <section id="stationmaxvalue">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="pricing-table-area">
+            <div class="title-area">
+              <h2 class="tittle" style="margin-top: 50px">Stations with Highest Values</h2>
+              <span class="tittle-line"></span>
+            </div>
+            <!-- service content -->
+            <div class="pricing-table-content">
+                <ul class="price-table">
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Average Temperature</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Average Maximum Temperature</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Average Minimum Temperature</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Rain/Snow Total</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Average Wind Speed</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Rainy Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Snow Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Storm Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Foggy Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Tornado Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Hail Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+               </ul>     
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Station Maximum Values Section -->
+
+  <!-- Start Stations with Min Values section -->
+  <section id="stationminvalue">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="pricing-table-area">
+            <div class="title-area">
+              <h2 class="tittle" style="margin-top: 50px">Stations with Lowest Values</h2>
+              <span class="tittle-line"></span>
+            </div>
+            <!-- service content -->
+            <div class="pricing-table-content">
+                <ul class="price-table">
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Average Temperature</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Average Maximum Temperature</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Average Minimum Temperature</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Rain/Snow Total</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Average Wind Speed</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Rainy Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Snow Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Storm Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Foggy Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Tornado Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">Hail Days</h4>
+                      <span class="price-amount" style="font-size: 18px">Station</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+               </ul>     
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Station Minimum Values Section -->
 
   <!-- Start Footer -->    
   <footer id="footer">

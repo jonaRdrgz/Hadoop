@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>METEO : Stats</title>
+    <title>METEO : Continents</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
     <!-- Font Awesome -->
@@ -71,9 +71,9 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav main-nav menu-scroll">
             <li><a href="index.html">Home</a></li> 
-            <li><a href="continents.php">Continents</a></li>
+            <li class="active"><a href="continents.php">Continents</a></li>
             <li><a href="countries.php">Countries</a></li>                    
-            <li class="active"><a href="stats.php">Stats</a></li>
+            <li><a href="stats.php">Stats</a></li>
           </ul>                            
         </div><!--/.nav-collapse -->       
       </div>          
@@ -103,25 +103,132 @@
 
   <!-- Start call to action -->
   <section id="call-to-action">
-    <img src="assets/images/waves.jpg" style="width: 100%; height: 140px" alt="img">
+    <img src="assets/images/sunny.jpg" style="width: 100%; height: 140px" alt="img">
     <div class="call-to-overlay">
       <div class="container">
         <div class="call-to-content wow fadeInUp">
-          <h2>Let's talk numbers</h2>
+          <h2>Search by continent</h2>
         </div>
       </div>
     </div> 
   </section>
   <!-- End call to action -->
 
-  <!-- Start Countries Max Values section -->
+  <div class="search-area" style="margin-top: 20px; margin-right: 440px; margin-bottom: 50px">
+    <form action="">
+      <input style="width: 400px" id="search" name="search" type="text" placeholder="Enter continent name">
+      <input id="search_submit" value="Rechercher" type="submit">
+    </form>
+  </div>
+
+  <div id="navbar2" class="navbar-collapse collapse">
+    <ul id="top-menu2" class="nav navbar-nav main-nav menu-scroll" style="margin-left: -200px; margin-bottom: 30px">
+      <li><a href="#tempavg">Temperature Average by Decade</a></li> 
+      <li><a href="#countrieshivalues">Countries with Highest Values</a></li>
+      <li><a href="#countrieslowvalues">Countries with Lowest Values</a></li>
+    </ul>                            
+  </div>
+
+  <!-- Start Yearly Max Values section -->
+  <section id="tempavg">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="pricing-table-area">
+            <div class="title-area">
+              <h2 class="tittle">Temperature Average by Decade</h2>
+              <span class="tittle-line"></span>
+            </div>
+            <!-- service content -->
+            <div class="pricing-table-content">
+                <ul class="price-table">
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">1930s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">1940s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">1950s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">1960s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">1970s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">1980s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">1990s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">2000s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">2010s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+                  <li class="wow slideInUp">
+                    <div class="single-price">
+                      <h4 class="price-header" style="font-size: 18px">2020s</h4>
+                      <span class="price-amount" style="font-size: 18px">Temperature</span>
+                      <p style="font-size: 14px">Value</p>
+                    </div>
+                  </li>
+               </ul>     
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Yearly Max Values section -->
+
+  <!-- Start Yearly Min Values section -->
   <section id="countrieshivalues">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="pricing-table-area">
             <div class="title-area">
-              <h2 class="tittle" style="margin-top: 50px">Countries with Highest Values</h2>
+              <h2 class="tittle" style="margin-top: 30px">Countries with Highest Values</h2>
               <span class="tittle-line"></span>
             </div>
             <!-- service content -->
@@ -211,9 +318,9 @@
       </div>
     </div>
   </section>
-  <!-- End Yearly Max Values section -->
+  <!-- End Yearly Min Values Section -->
 
-  <!-- Start Countries Min Values section -->
+  <!-- Start Stations with Max Values section -->
   <section id="countrieslowvalues">
     <div class="container">
       <div class="row">
@@ -310,7 +417,7 @@
       </div>
     </div>
   </section>
-  <!-- End Yearly Min Values section -->
+  <!-- End Station Maximum Values Section -->
 
   <!-- Start Footer -->    
   <footer id="footer">

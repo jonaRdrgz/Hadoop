@@ -1119,6 +1119,12 @@ img{
 	margin-left: 5px;
 }
 
+.search-select{
+	margin-left: 300px;
+	font-size: 100px;
+	float: left;
+}
+
 /*--------------------*/
 /* PRICING TABLE */
 /*--------------------*/
@@ -1127,7 +1133,7 @@ img{
 	display: inline;
 	float: left;
 	padding: 70px 0;
-	width: 100%;
+	width: 50%;
 }
 .pricing-table-area{
 	display: inline;
