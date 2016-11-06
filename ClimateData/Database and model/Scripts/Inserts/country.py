@@ -107,7 +107,7 @@ Central African Republic
 Chad
 Comoros
 Congo
-Côte d Ivoire
+Côte d\'Ivoire
 Democratic Republic of the Congo
 Djibouti
 Egypt

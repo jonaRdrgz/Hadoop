@@ -299,7 +299,7 @@ INSERT INTO Country(idCountry, descriptionCountry, idContinentCountry)
 VALUES (NULL, 'Congo', 3);
 
 INSERT INTO Country(idCountry, descriptionCountry, idContinentCountry)
-VALUES (NULL, 'Côte d Ivoire', 3);
+VALUES (NULL, 'Côte d\'Ivoire', 3);
 
 INSERT INTO Country(idCountry, descriptionCountry, idContinentCountry)
 VALUES (NULL, 'Democratic Republic of the Congo', 3);
