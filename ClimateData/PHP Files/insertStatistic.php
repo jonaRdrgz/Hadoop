@@ -64,7 +64,7 @@ function insertStatistic()
     }
 }
 
-function insertTopMaxCountryXVariable()
+function insertTopMaxCountryXClimateVariable()
 {
     $topMax = topTenCountryMax();
     foreach ($topMax as $mainKey => $variable) {
@@ -84,7 +84,7 @@ function insertTopMaxCountryXVariable()
                         
                     $idCountry = $db->query($query);
                     $idCountry = $idCountry ->fetch_row()[0];
-                    $query = 'call insertTopMaxCountryXVariable('.$mainKey.', '.$idCountry.', '.$valueMax.');';   
+                    $query = 'call insertTopMaxCountryXClimateVariable('.$mainKey.', '.$idCountry.', '.$valueMax.');';   
                     $db2 ->query($query);
                 }
             }
@@ -93,7 +93,7 @@ function insertTopMaxCountryXVariable()
     }
 }
 
-function insertTopMinCountryXVariable()
+function insertTopMinCountryXClimateVariable
 {
     $topMax = topTenCountryMin();
     foreach ($topMax as $mainKey => $variable) {
@@ -113,7 +113,7 @@ function insertTopMinCountryXVariable()
                         
                     $idCountry = $db->query($query);
                     $idCountry = $idCountry ->fetch_row()[0];
-                    $query = 'call insertTopMinCountryXVariable('.$mainKey.', '.$idCountry.', '.$valueMin.');';   
+                    $query = 'call insertTopMinCountryXClimateVariable('.$mainKey.', '.$idCountry.', '.$valueMin.');';   
                     $db2 ->query($query);
                 }
             }
@@ -237,8 +237,8 @@ function insertMaxMinCountryXContinent()
 
 /*call function insert statistic*/
 insertStatistic();
-insertTopMaxCountryXVariable();
-insertTopMinCountryXVariable();
+insertTopMaxCountryXClimateVariable();
+insertTopMinCountryXClimateVariable();
 insertAverageXContinent();
 insertMaxMinCountryXContinent();
 
