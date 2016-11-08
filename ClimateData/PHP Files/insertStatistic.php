@@ -93,7 +93,7 @@ function insertTopMaxCountryXClimateVariable()
     }
 }
 
-function insertTopMinCountryXClimateVariable
+function insertTopMinCountryXClimateVariable()
 {
     $topMax = topTenCountryMin();
     foreach ($topMax as $mainKey => $variable) {
