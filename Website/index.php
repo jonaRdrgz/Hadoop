@@ -1,4 +1,14 @@
 <!DOCTYPE html>
+<?php
+  include ('assets/php/functionPHP.php');
+  @session_destroy();
+  @session_start();
+  $_SESSION['idContinent'] = -4;
+  $_SESSION['descriptionContinent'] = "";
+  $_SESSION['descriptionCountry'] = '';
+  $_SESSION['idCountry'] = -4;
+
+?>
 <html lang="en">
   <head>
     <meta charset="utf-8">

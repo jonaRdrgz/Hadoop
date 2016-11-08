@@ -184,11 +184,62 @@ function insertAverageXContinent()
 		}
     }
 }
+function insertMaxMinCountryXContinent()
+{
+    $countryMin = countryMinXContinent();
+    $countryMax = countryMaxXContinent();
+
+    foreach ($countryMin as $mainKey => $variable) {
+        
+        foreach ($variable as $key => $value) {
+
+            if ($key != 0){
+
+                $db = dbConnectMySQL ();
+                $db2 = dbConnectMySQL ();
+                $country = utf8_decode(mysqli_real_escape_string($db, $value[0])); // $variable[$mainkey][0], ya que se sabe que el elemento [0] es igual a una pais 
+               
+
+                $query  = 'call getIdCountry("'.$country.'")';
+                    
+                $idCountry = $db->query($query);
+                $idCountry = $idCountry ->fetch_row()[0];
+                $query = 'call updateMinXCountry('.$key.', '.$idCountry.');'."\n";   //$key = idClimateVariable
+                 $db2 ->query($query);
+            }
+        }
+
+    }
+
+    foreach ($countryMax as $mainKey => $variable) {
+        
+        foreach ($variable as $key => $value) {
+
+            if ($key != 0){
+
+                $db = dbConnectMySQL ();
+                $db2 = dbConnectMySQL ();
+                $country = utf8_decode(mysqli_real_escape_string($db, $value[0])); // $variable[$mainkey][0], ya que se sabe que el elemento [0] es igual a una pais 
+
+                $query  = 'call getIdCountry("'.$country.'")';
+                    
+                $idCountry = $db->query($query);
+                $idCountry = $idCountry ->fetch_row()[0];
+                $query = 'call updateMaxXCountry('.$key.', '.$idCountry.');'."\n";   //$key = idClimateVariable
+                $db2 ->query($query);
+            }
+        }
+
+    }
+}
+
+
 
 /*call function insert statistic*/
 insertStatistic();
 insertTopMaxCountryXVariable();
 insertTopMinCountryXVariable();
 insertAverageXContinent();
+insertMaxMinCountryXContinent();
 
 ?>
