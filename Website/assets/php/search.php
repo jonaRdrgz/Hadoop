@@ -74,7 +74,7 @@
 		$query = 'call searchCountry("'.$search.'")';
 
 	    $searchCountry = $db ->query($query);
-	    $searchCountrytData = "";
+	    $searchCountryData = "";
 
 	    while ($row = $searchCountry ->fetch_row()){
 	    	$value = utf8_encode($row[0]);
