@@ -325,12 +325,16 @@ function yearMaxXCountry()
 		$climateVariable = ["Average Temperature", "Average Maximum Temperature","Average Minimum Temperature", "Rain/Snow Total"
 				, "Average Wind Speed", "Rainy Days", "Snow Days", "Storm Days", "Foggy Days", "Tornado Days", "Hail Days"];
 		$i = 0;
+		
 		while ($row = $allData ->fetch_row()) {
+			$NaN = "------";
+			$NaN1 = "Value"; 
+			if ($row[1] != -1){$NaN = $row[1]; $NaN1 = $row[2];}
 			$html = $html. '<li class="wow slideInUp">
 		'.'                    <div class="single-price">
 		'.'                      <h4 class="price-header" style="font-size: 18px">'.$climateVariable[$i].'</h4>
-		'.'                      <span class="price-amount" style="font-size: 18px">'.$row[1].'</span>
-		'.'                      <p style="font-size: 18px">'.$row[2].'</p>
+		'.'                      <span class="price-amount" style="font-size: 18px">'.$NaN.'</span>
+		'.'                      <p style="font-size: 18px">'.$NaN1.'</p>
 		'.'                    </div>
 		'.'                  </li>';
 		$i++;
@@ -361,14 +365,17 @@ function yearMinXCountry()
 				, "Average Wind Speed", "Rainy Days", "Snow Days", "Storm Days", "Foggy Days", "Tornado Days", "Hail Days"];
 		$i = 0;
 		while ($row = $allData ->fetch_row()) {
+			$NaN = "------";
+			$NaN1 = "Value"; 
+			if ($row[1] != -1){$NaN = $row[1]; $NaN1 = $row[2];}
 			$html = $html. '<li class="wow slideInUp">
 		'.'                    <div class="single-price">
 		'.'                      <h4 class="price-header" style="font-size: 18px">'.$climateVariable[$i].'</h4>
-		'.'                      <span class="price-amount" style="font-size: 18px">'.$row[1].'</span>
-		'.'                      <p style="font-size: 18px">'.$row[2].'</p>
+		'.'                      <span class="price-amount" style="font-size: 18px">'.$NaN.'</span>
+		'.'                      <p style="font-size: 18px">'.$NaN1.'</p>
 		'.'                    </div>
 		'.'                  </li>';
-		$i++;
+			$i++;
 		}
 	}
 	else{
@@ -396,11 +403,14 @@ function stationMaxXCountry()
 				, "Average Wind Speed", "Rainy Days", "Snow Days", "Storm Days", "Foggy Days", "Tornado Days", "Hail Days"];
 		$i = 0;
 		while ($row = $allData ->fetch_row()) {
+			$NaN = "------";
+			$NaN1 = "Value"; 
+			if ($row[1] != -1){$NaN = $row[1]; $NaN1 = $row[2];}
 			$html = $html. '<li class="wow slideInUp">
 		'.'                    <div class="single-price">
 		'.'                      <h4 class="price-header" style="font-size: 18px">'.$climateVariable[$i].'</h4>
-		'.'                      <span class="price-amount" style="font-size: 13px">'.$row[1].'</span>
-		'.'                      <p style="font-size: 18px">'.$row[2].'</p>
+		'.'                      <span class="price-amount" style="font-size: 18px">'.$NaN.'</span>
+		'.'                      <p style="font-size: 18px">'.$NaN1.'</p>
 		'.'                    </div>
 		'.'                  </li>';
 		$i++;
@@ -431,11 +441,14 @@ function stationMinXCountry()
 				, "Average Wind Speed", "Rainy Days", "Snow Days", "Storm Days", "Foggy Days", "Tornado Days", "Hail Days"];
 		$i = 0;
 		while ($row = $allData ->fetch_row()) {
+			$NaN = "------";
+			$NaN1 = "Value"; 
+			if ($row[1] != -1){$NaN = $row[1]; $NaN1 = $row[2];}
 			$html = $html. '<li class="wow slideInUp">
 		'.'                    <div class="single-price">
 		'.'                      <h4 class="price-header" style="font-size: 18px">'.$climateVariable[$i].'</h4>
-		'.'                      <span class="price-amount" style="font-size: 13px">'.$row[1].'</span>
-		'.'                      <p style="font-size: 18px">'.$row[2].'</p>
+		'.'                      <span class="price-amount" style="font-size: 18px">'.$NaN.'</span>
+		'.'                      <p style="font-size: 18px">'.$NaN1.'</p>
 		'.'                    </div>
 		'.'                  </li>';
 		$i++;
